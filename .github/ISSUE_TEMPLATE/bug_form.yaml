@@ -30,7 +30,7 @@ body:
   - type: checkboxes
     id: system
     attributes:
-      label: system
+      label: Affected system
       description: What system is impacted by this bug?
       options:
         - label: Console
