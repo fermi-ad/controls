@@ -1,4 +1,4 @@
-name: Bug Form
+name: Bug Report
 description: File a bug report
 labels: ["bug"]
 projects: ["fermi-ad/13"]
