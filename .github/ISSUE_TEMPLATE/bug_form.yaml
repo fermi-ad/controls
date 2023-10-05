@@ -33,12 +33,12 @@ body:
       label: system
       description: What system is impacted by this bug?
       options:
-        - Console
-        - Java
-        - Web
-        - Synoptic
-        - Front End
-        - Central Service
+        - label: Console
+        - label: Java
+        - label: Web
+        - label: Synoptic
+        - label: Front End
+        - label: Central Service
     validations:
       required: true
 
