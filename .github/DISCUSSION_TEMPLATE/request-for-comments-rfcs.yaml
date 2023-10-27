@@ -12,7 +12,6 @@ body:
       description: |
         If the proposal involves a new or changed API, include a basic example.
         Omit this section if it's not applicable.
-    placeholder: "Adding a new feature would be a great idea."
 
   - type: textarea
     attributes:
