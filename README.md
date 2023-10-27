@@ -8,7 +8,7 @@ You submit can [report bugs](https://github.com/fermi-ad/controls/issues/new?ass
 
 ## Feature requests
 
-Feature requests should be made to the relevant repo. If you don't know where to post, please ask in Slack.
+Feature requests should be made to the relevant repo. If you don't know where to post, please ask in Slack #general.
 
 ## Request for Comments (RFC)
 
