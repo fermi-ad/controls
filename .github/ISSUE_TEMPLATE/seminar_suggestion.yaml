@@ -11,7 +11,7 @@ body:
     id: suggestion
     attributes:
       label: Describe the topic
-      description: Include a title and brief description, links are helpful too.
+      description: Include a title and brief description; links are helpful too.
       placeholder: Tell us what you want to learn!
     validations:
       required: true
