@@ -1,4 +1,4 @@
-# Controls Issues and Feature Requests
+# Controls
 
 This is a central repo for reporting bugs, making feature requests, managing RFCs, and requesting seminar topics for control system related functions.
 
