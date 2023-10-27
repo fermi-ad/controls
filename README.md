@@ -4,7 +4,7 @@ This is a central repo for reporting bugs, making feature requests, managing RFC
 
 ## Bug reports
 
-You can [report bugs](https://github.com/fermi-ad/controls/issues/new?assignees=&labels=bug&projects=fermi-ad/13&template=bug_report.yaml) using the form in the issues tab.
+You submit can [report bugs](https://github.com/fermi-ad/controls/issues/new?assignees=&labels=bug&projects=fermi-ad/13&template=bug_report.yaml) using the form in the issues tab.
 
 ## Feature requests
 
