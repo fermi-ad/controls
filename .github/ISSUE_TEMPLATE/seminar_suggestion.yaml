@@ -1,0 +1,37 @@
+name: Seminar Suggestion
+description: Submit a topic suggestion for the Control Seminar series.
+labels: ["seminar"]
+projects: ["fermi-ad/18"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a suggestion for the Controls Seminar series!
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Describe the topic
+      description: Include a title and brief description, links are helpful too.
+      placeholder: Tell us what you want to learn!
+    validations:
+      required: true
+  - type: input
+    id: presenter
+    attributes:
+      label: Recommended presenter
+      description: If you have someone who can present on the topic.
+      placeholder: Tell us who can educate us!
+  - type: dropdown
+    id: track
+    attributes:
+      label: Topic Track
+      description: Which topic track best fits your suggestion?
+      options:
+        - Best Practices
+        - Build Systems
+        - Container Orchestration
+        - Control System
+        - Field Systems
+        - Future
+        - GitHub
+        - User Applications
