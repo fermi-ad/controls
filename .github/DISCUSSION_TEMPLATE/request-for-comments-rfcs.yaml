@@ -50,28 +50,22 @@ body:
     attributes:
       label: Adoption strategy
       description: |
-        If we implement this proposal, how will existing Gatsby developers adopt it? Is
-        this a breaking change? Can we write a codemod? Should we coordinate with
-        other projects or libraries?
+        If we implement this proposal, how will existing Controls developers adopt it? Is this a breaking change? Should we coordinate with other projects or libraries?
 
   - type: textarea
     attributes:
       label: How we teach this
       description: |
-        What names and terminology work best for these concepts and why? How is this
-        idea best presented? As a continuation of existing Gatsby patterns?
+        What names and terminology work best for these concepts and why? How is this idea best presented?
 
-        Would the acceptance of this proposal mean the Gatsby documentation must be
-        re-organized or altered? Does it change how Gatsby is taught to new developers
-        at any level?
+        Would accepting this proposal mean the Controls documentation must be reorganized or altered? Does it change how Controls is taught to new developers at any level?
 
-        How should this feature be taught to existing Gatsby developers?
+        How should this feature be taught to existing Controls developers?
 
   - type: textarea
     attributes:
       label: Unresolved questions
       description: |
-        Optional, but suggested for first drafts. What parts of the design are still
-        TBD?
+        It's optional but suggested for first drafts. What parts of the design are still TBD?
 
 # This documentation was seeded from: https://www.gatsbyjs.com/contributing/rfc-process/#what-the-process-is_
