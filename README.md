@@ -4,7 +4,7 @@ This is a central repo for reporting bugs, making feature requests, managing RFC
 
 ## Bug reports
 
-You submit can [report bugs](https://github.com/fermi-ad/controls/issues/new?assignees=&labels=bug&projects=fermi-ad/13&template=bug_report.yaml) using the form in the issues tab.
+You can [report bugs](https://github.com/fermi-ad/controls/issues/new?assignees=&labels=bug&projects=fermi-ad/13&template=bug_report.yaml) using the form in the issues tab.
 
 ## Feature requests
 
@@ -17,3 +17,5 @@ If you have a substantial change request, an RFC might be the way to go; please 
 ## Request seminar topics
 
 You can [request a topic](https://github.com/fermi-ad/controls/issues/new?assignees=&labels=seminar&projects=fermi-ad/18&template=seminar_suggestion.yaml) to be covered in the Controls Seminar in the issues tab.
+
+See the inaugural two-day Control Seminar here: <https://beamdocs.fnal.gov/cgi-bin/sso/DisplayMeeting?conferenceid=276>.
