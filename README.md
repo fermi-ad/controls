@@ -1,6 +1,6 @@
-# Controls
+# Fermilab Accelerator Controls
 
-This is a central repo for reporting bugs, making feature requests, managing RFCs, and requesting seminar topics for control system related functions.
+Welcome to the Fermilab Accelerator Controls Repository! This central repository is a hub for reporting bugs, making feature requests, managing RFCs (Request for Comments), and requesting seminar topics related to control system functions within Fermilab's accelerator complex.
 
 ## Bug reports
 
